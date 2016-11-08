@@ -1,9 +1,19 @@
 ﻿  HelloTriangleApplication.cpp
-c:\users\strigoy\documents\visual studio 2015\projects\vulkanapp1\vulkanapp1\hellotriangleapplication.cpp(287): warning C4267: '=': conversion from 'size_t' to 'uint32_t', possible loss of data
-c:\users\strigoy\documents\visual studio 2015\projects\vulkanapp1\vulkanapp1\hellotriangleapplication.cpp(291): warning C4267: '=': conversion from 'size_t' to 'uint32_t', possible loss of data
-c:\users\strigoy\documents\visual studio 2015\projects\vulkanapp1\vulkanapp1\hellotriangleapplication.cpp(448): warning C4267: '=': conversion from 'size_t' to 'uint32_t', possible loss of data
-c:\users\strigoy\documents\visual studio 2015\projects\vulkanapp1\vulkanapp1\hellotriangleapplication.cpp(451): warning C4267: '=': conversion from 'size_t' to 'uint32_t', possible loss of data
-c:\users\strigoy\documents\visual studio 2015\projects\vulkanapp1\vulkanapp1\hellotriangleapplication.cpp(706): warning C4267: '=': conversion from 'size_t' to 'uint32_t', possible loss of data
-c:\users\strigoy\documents\visual studio 2015\projects\vulkanapp1\vulkanapp1\hellotriangleapplication.cpp(1075): warning C4267: 'argument': conversion from 'size_t' to 'uint32_t', possible loss of data
-c:\users\strigoy\documents\visual studio 2015\projects\vulkanapp1\vulkanapp1\hellotriangleapplication.cpp(1130): warning C4267: 'argument': conversion from 'size_t' to 'uint32_t', possible loss of data
+c:\users\strigoy\documents\visual studio 2015\projects\vulkanapp1\vulkanapp1\hellotriangleapplication.cpp(393): warning C4267: '=': conversion from 'size_t' to 'uint32_t', possible loss of data
+c:\users\strigoy\documents\visual studio 2015\projects\vulkanapp1\vulkanapp1\hellotriangleapplication.cpp(397): warning C4267: '=': conversion from 'size_t' to 'uint32_t', possible loss of data
+c:\users\strigoy\documents\visual studio 2015\projects\vulkanapp1\vulkanapp1\hellotriangleapplication.cpp(554): warning C4267: '=': conversion from 'size_t' to 'uint32_t', possible loss of data
+c:\users\strigoy\documents\visual studio 2015\projects\vulkanapp1\vulkanapp1\hellotriangleapplication.cpp(557): warning C4267: '=': conversion from 'size_t' to 'uint32_t', possible loss of data
+c:\users\strigoy\documents\visual studio 2015\projects\vulkanapp1\vulkanapp1\hellotriangleapplication.cpp(750): warning C4267: '=': conversion from 'size_t' to 'uint32_t', possible loss of data
+c:\users\strigoy\documents\visual studio 2015\projects\vulkanapp1\vulkanapp1\hellotriangleapplication.cpp(785): warning C4267: '=': conversion from 'size_t' to 'uint32_t', possible loss of data
+c:\users\strigoy\documents\visual studio 2015\projects\vulkanapp1\vulkanapp1\hellotriangleapplication.cpp(824): warning C4267: '=': conversion from 'size_t' to 'uint32_t', possible loss of data
+c:\users\strigoy\documents\visual studio 2015\projects\vulkanapp1\vulkanapp1\hellotriangleapplication.cpp(991): warning C4267: '=': conversion from 'size_t' to 'uint32_t', possible loss of data
+c:\users\strigoy\documents\visual studio 2015\projects\vulkanapp1\vulkanapp1\hellotriangleapplication.cpp(1090): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(119): note: see declaration of 'strcpy'
+c:\users\strigoy\documents\visual studio 2015\projects\vulkanapp1\vulkanapp1\hellotriangleapplication.cpp(1351): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+c:\users\strigoy\documents\visual studio 2015\projects\vulkanapp1\vulkanapp1\hellotriangleapplication.cpp(1431): warning C4267: '=': conversion from 'size_t' to 'uint32_t', possible loss of data
+c:\users\strigoy\documents\visual studio 2015\projects\vulkanapp1\vulkanapp1\hellotriangleapplication.cpp(1483): warning C4267: 'argument': conversion from 'size_t' to 'uint32_t', possible loss of data
+c:\users\strigoy\documents\visual studio 2015\projects\vulkanapp1\vulkanapp1\hellotriangleapplication.cpp(1536): warning C4267: 'argument': conversion from 'size_t' to 'uint32_t', possible loss of data
+c:\users\strigoy\documents\visual studio 2015\projects\vulkanapp1\vulkanapp1\hellotriangleapplication.cpp(1568): warning C4267: '=': conversion from 'size_t' to 'uint32_t', possible loss of data
+c:\users\strigoy\documents\visual studio 2015\projects\vulkanapp1\vulkanapp1\hellotriangleapplication.cpp(1593): warning C4267: 'argument': conversion from 'size_t' to 'uint32_t', possible loss of data
+c:\users\strigoy\documents\visual studio 2015\projects\vulkanapp1\vulkanapp1\hellotriangleapplication.cpp(1658): warning C4305: 'initializing': truncation from 'double' to 'float'
   VulkanApp1.vcxproj -> C:\Users\Strigoy\documents\visual studio 2015\Projects\VulkanApp1\x64\Debug\VulkanApp1.exe
